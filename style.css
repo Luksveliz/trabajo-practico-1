@@ -1,0 +1,42 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: rgb(240, gr240een, bl240ue);
+}
+
+.search {
+  margin-bottom: 20px;
+  border-radius: 5px;
+  padding: 10px;
+  margin-right: 10px;
+  width: 100%;
+  cursor: pointer;
+  border: 2px solid rgb(167, 167, 167);
+}
+
+.sidebar {
+  padding: 100px;
+  width: 20%;
+  border-right: 2px solid grey;
+}
+
+img {
+  border-radius: 20px;
+}
+
+.contact {
+  display: flex;
+  gap: 10px;
+}
+
+.contact-list {
+  padding: 10px;
+
+}
+
+.status {
+  margin-top: 5px;
+}
