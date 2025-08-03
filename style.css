@@ -40,3 +40,28 @@ img {
 .status {
   margin-top: 5px;
 }
+
+.chat-header {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  padding: 20px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: auto;
+  gap: 5px;
+}
+
+.chat-actions {
+  display: flex;
+  margin-right: 60px;
+  gap: 5px;
+}
+
+.chat {
+  flex: auto;
+}
